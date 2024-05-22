@@ -6,6 +6,8 @@
 Nunca é tarde para começar algo novo. Atualmente estudando Desenvolvimento de Sistemas FullStack.
               Seja muito bem vindo(a) ao meu Git.
 
+              [![trophy](https://github-profile-trophy.vercel.app/?username=Carla-coder)](https://github.com/Carla-coder/github-profile-trophy)
+
 
 <!---
 Carla-coder/Carla-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
