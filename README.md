@@ -32,6 +32,7 @@
   <img src="https://profile-counter.glitch.me/Carla-coder/count.svg" alt="Contador de visitas" />
 </p>
 
+
 <p align="center">
   <!-- Botões sociais -->
   <a href="https://www.linkedin.com/in/carlamozena/" target="_blank">
