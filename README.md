@@ -3,8 +3,6 @@
 
 ---
 
-### 🌟 Tecnologias que uso
-
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff" />
@@ -16,16 +14,12 @@
 
 ---
 
-### 📈 GitHub Stats
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carla-coder&show_icons=true&theme=dracula&locale=pt-br" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carla-coder&layout=compact&theme=dracula" />
 </p>
 
 ---
-
-### 🐍 Cobra comendo commits
 
 <p align="center">
   <img src="https://github.com/Carla-coder/Carla-coder/blob/output/github-contribution-grid-snake.svg" />
