@@ -34,15 +34,29 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Carla-coder&label=Profile%20views&color=0e75b6&style=flat" alt="Carla-coder" />
+  <!-- Contador de visitas -->
+  <img src="https://profile-counter.glitch.me/Carla-coder/count.svg" alt="Contador de visitas" />
 </p>
 
-### 📫 Onde me encontrar
+<p align="center">
+  <!-- Botões sociais -->
+  <a href="https://www.linkedin.com/in/carlamozena/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/carla_coder2023/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:carlacoder2023@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</p>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/Carla-coder)
-- 🌐 Meu portfólio: https://carla-coder.github.io/
+<p align="center">
+  💜 Obrigada por visitar meu perfil! Vamos construir algo incrível juntos!
+</p>
 
 ---
+
 
 
 
