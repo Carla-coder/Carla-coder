@@ -40,7 +40,7 @@
 ### 📫 Onde me encontrar
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/Carla-coder)
-- 🌐 Meu portfólio:[GitHub.io] (https://carla-coder.github.io/)
+- 🌐 Meu portfólio: https://carla-coder.github.io/
 
 ---
 
