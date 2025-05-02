@@ -1,0 +1,31 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Generate Snake
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@master
+        with:
+          github_user_name: Carla-coder
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "update contribution grid snake"
+          add: "dist/github-contribution-grid-snake.svg"
+
+      - name: Upload to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
